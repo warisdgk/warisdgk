@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warisdgk&label=Profile%20views&color=0e75b6&style=flat" alt="warisdgk" /> </p>
 
-- 🔭 I’m currently working on [Etisalat Digital App]([https://www.joincommonwealth.com/](https://play.google.com/store/apps/details?id=com.Etisalat.ETIDA&hl=en))
+- 🔭 I’m currently working on [Etisalat Digital App](https://play.google.com/store/apps/details?id=com.Etisalat.ETIDA&hl=en)
 
 - 🌱 I’m currently Exploring **AI, Agentic AI Workflows**
 
