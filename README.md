@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waris</h1>
-<h3 align="center">Android Engineer @Scal.io</h3>
+<h3 align="center">Android Engineer @ e& | UAE /h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warisdgk&label=Profile%20views&color=0e75b6&style=flat" alt="warisdgk" /> </p>
 
-- 🔭 I’m currently working on [CommonWealth Android](https://www.joincommonwealth.com/)
+- 🔭 I’m currently working on [Etisalat Digital App]([https://www.joincommonwealth.com/](https://play.google.com/store/apps/details?id=com.Etisalat.ETIDA&hl=en))
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently Exploring **AI, Agentic AI Workflows**
 
 - 👨‍💻 My portfolio at [https://mwaris.dev/)
 
-- 💬 Ask me about **Android, Jetpack Compose, UI Testing & Unit testing**
+- 💬 Ask me about **Android, Jetpack Compose, UI Testing & Unit testing; In-fact Anything related to Mobile Development Ecosystem**
 
 - 📫 Reachout to me at **warisdgk@gmail.com**
 
